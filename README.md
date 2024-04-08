@@ -35,6 +35,10 @@ GitHub Profile Finder is a web application built with ReactJS and Tailwind CSS t
    npm start
    ```
 
+   ```bash
+   npm install react-icons
+   ```
+
 **Open your browser and navigate to http://localhost:3000.**
 
 **Enter a GitHub username in the search input and press Enter or click the search button.**
