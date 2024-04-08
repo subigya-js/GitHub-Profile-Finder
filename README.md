@@ -23,17 +23,23 @@ GitHub Profile Finder is a web application built with ReactJS and Tailwind CSS t
    git clone https://github.com/your-username/github-profile-finder.git
    ```
 
-cd github-profile-finder
+ ```bash
+  cd github-profile-finder
+   ```
 
+```bash
 npm install
+```
 
+```bash
 npm start
+```
 
-Open your browser and navigate to http://localhost:3000.
+**Open your browser and navigate to http://localhost:3000.**
 
-Enter a GitHub username in the search input and press Enter or click the search button.
+**Enter a GitHub username in the search input and press Enter or click the search button.**
 
-View the profile details of the GitHub user.
+**View the profile details of the GitHub user.**
 
 ## Contributing
 
