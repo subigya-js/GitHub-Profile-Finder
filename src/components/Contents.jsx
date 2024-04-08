@@ -30,10 +30,7 @@ const Contents = (props) => {
         <>
             <div className='flex flex-col w-screen h-auto bg-gray-950 min-h-[82vh] md:flex-row'>
                 {/* User Information div */}
-                {/* <div className='bg-gray-950 text-white w-[30%] flex flex-col px-2 items-center font-userInfo'> */}
-
                 <div className='bg-gray-950 text-white w-[100%] md:w-[40%] lg:w-[35%] lg:h-[75vh] md:h-[70vh] flex flex-col px-2 items-center md:justify-around font-userInfo py-3'>
-                    {/* <div className='h-[100%] flex items-center justify-center bg-red-300'> */}
                     <div className='h-[100%] flex items-center justify-center'>
                         <img src={userData.avatar_url} alt='User Pic' className='w-[150px] rounded-full' />
                     </div>
