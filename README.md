@@ -30,14 +30,15 @@ GitHub Profile Finder is a web application built with ReactJS and Tailwind CSS t
    ```bash
    npm install
    ```
+   
+   ```bash
+   npm install react-icons
+   ```
 
    ```bash
    npm start
    ```
-
-   ```bash
-   npm install react-icons
-   ```
+   
 
 **Open your browser and navigate to http://localhost:3000.**
 
