@@ -45,7 +45,7 @@ const Contents = (props) => {
                         <div className='my-3 border border-gray-400'></div>
 
                         {/* Details */}
-                        <div className='flex justify-center items-center py-2'>
+                        <div className='flex justify-center items-center py-3'>
                             <ul className='text-xs text-center flex flex-col items-center justify-between h-[100%] gap-5'>
                                 <li className='w-[100%] flex px-2 items-center'><GoOrganization size={20} /> <span className='px-5 text-center text-xs'>{userData.company === null ? "N/A" : userData.company}</span></li>
                                 <li className='w-[100%] flex px-2 items-center'><IoLocationSharp size={20} /> <span className='px-5 text-center text-xs'>{userData.location === null ? "N/A" : userData.location}</span></li>
